@@ -11,6 +11,7 @@ Este alfabeto é utilizado em:
 
 ## Download
 No download, assim como nesse repositório, contém planilhas de conversão X-Sampa -> BRAPA nos formatos `.ods` e `.xlsx`
+
 Você pode fazer o download [clicando aqui](https://github.com/overdramatic/BRAPA/releases) e baixando uma das source codes
 
 ## Autores
