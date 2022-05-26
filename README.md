@@ -6,8 +6,8 @@ Utilizando Arpabet como base, seu objetivo é trazer uma linguagem mais intuíti
 
 Este alfabeto é utilizado em:
 -
-- Reclist CVC PT-BR
-- CVC PT-BR Phonemizer (OpenUTAU)
+- Reclist CVC PT-BR (em breve)
+- CVC PT-BR Phonemizer (OpenUTAU) (em breve)
 
 
 
