@@ -27,8 +27,8 @@
 | u0 | U | Redução | Solt<ins>**o**</ins> | [s o w t **u0**] |
 | rh | @\` | Regional (1 & 10) | Ca<ins>**r**</ins>ne | [k a **rh** n i]  |
 
-*\[i0] e \[u0] geralmente encontrados em finais de palavras ou em palavras e frases com sílabas repetitivas
-*Fonemas na descrição segue o padrão X-Sampa
+*\[i0] e \[u0] geralmente encontrados em finais de palavras ou em palavras e frases com sílabas repetitivas</br>
+*Fonemas na descrição segue o padrão X-Sampa</br>
 *Números entre parentes representam a numeração dos sotaques regionais encontrados no Brasil: [Dialetos da Língua Portuguesa](https://pt.wikipedia.org/wiki/Dialetos_da_língua_portuguesa#/media/Ficheiro:Br.pt.png)
 
 ## Semivogais
