@@ -27,8 +27,8 @@
 | u0 | U | Reduction | Solt<ins>**o**</ins> | [s o w t **u0**] |
 | rh | @\` | Regional (1 & 10) | Ca<ins>**r**</ins>ne | [k a **rh** n i]  |
 
-*\[i0] and \[u0] usually found at the ends of words or in words and phrases with repetitive syllables
-*Phonemes in the description follow the X-Sampa standard
+*\[i0] and \[u0] usually found at the ends of words or in words and phrases with repetitive syllables</br>
+*Phonemes in the description follow the X-Sampa standard</br>
 *Numbers in parentheses represent the numbering of regional accents found in Brazil: [Dialects of the Portuguese Language (PT-BR)](https://pt.wikipedia.org/wiki/Dialetos_da_língua_portuguesa#/media/Ficheiro:Br.pt.png) / [Portuguese dialects (English)](https://en.wikipedia.org/wiki/Portuguese_dialects)
 
 ## Semivowels
