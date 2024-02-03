@@ -11,6 +11,7 @@ Its phoneme index is flexible and designed to be adapted to each region of the c
 The download, as well as this repository, contains X-Sampa -> BRAPA conversion spreadsheets in `.ods` and `.xlsx` formats
 
 You can download it by [clicking here](https://github.com/overdramatic/BRAPA/archive/refs/heads/main.zip "Release")<br/>
+If you want to read it offline [click here](SPREADSHEETS/PHONEMES.md)
 
 ## Authors
 
