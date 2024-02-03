@@ -11,7 +11,7 @@ Seu índice de fonemas é flexível e feito para ser adaptado para cada região 
 No download, assim como nesse repositório, contém planilhas de conversão X-Sampa -> BRAPA nos formatos `.ods` e `.xlsx`
 
 Você pode fazer o download [clicando aqui](https://github.com/overdramatic/BRAPA/archive/refs/heads/main.zip "Release")<br/>
-Para ver a lista offline [clique aqui](SPREADSHEETS/FONEMAS.md)
+Para ver a lista online [clique aqui](SPREADSHEETS/FONEMAS.md)
 
 ## Autores
 
