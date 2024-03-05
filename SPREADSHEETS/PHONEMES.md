@@ -4,7 +4,7 @@
 | BRAPA | X-SAMPA | Description | Example | Phonetic |
 |--|--|--|--|--|
 | a | a | | <ins>**A**</ins>migo | [**a** m i g u]  |
-| oa | A | Regional (4 & 9) | (4) P<ins>**ó**</ins>rta - (9) Pedest<ins>**a**</ins>l | (4)[p **oa** x t a] / (9)[ p e d e s t **oa** w]  |
+| ao | A | Regional (4 & 9) | (4) P<ins>**ó**</ins>rta - (9) Pedest<ins>**a**</ins>l | (4)[p **ao** x t a] / (9)[ p e d e s t **ao** w]  |
 | ah | V | Diphthong with /w/| S<ins>**a**</ins>udade | [s **ah** w d a dj i ]  |
 | ahn | V~ | Diphthong with /w/ and /j/ | M<ins>**ã**</ins>o | [m **ahn** w]  |
 | ax | 6 | | C<ins>**â**</ins>mera | [k **ax** m e r a]  |
