@@ -68,5 +68,6 @@
 | v | v | [Fricativa labiodental sonora](https://en.wikipedia.org/wiki/Voiced_labiodental_fricative) | <ins>**V**</ins>aso | [<ins>**v**</ins> a z u0] | |
 | x | x | [Fricativa velar surda](https://en.wikipedia.org/wiki/Voiceless_velar_fricative) | Pa<ins>**r**</ins>ti<ins>**r**</ins> | [p a <ins>**x**</ins> ch i <ins>**x**</ins>] | Regional (4) |
 | z | z | [Fricativa alveolar sonora](https://en.wikipedia.org/wiki/Voiced_alveolar_fricative) | <ins>**Z**</ins>ebra | [<ins>**z**</ins> e b r ax] | |
+
 *Fonemas nas descrições seguem o padrão X-Sampa</br>
 *Números entre parentes representam a numeração dos sotaques regionais encontrados no Brasil: [Dialetos da Língua Portuguesa](https://pt.wikipedia.org/wiki/Dialetos_da_língua_portuguesa#/media/Ficheiro:Br.pt.png)
