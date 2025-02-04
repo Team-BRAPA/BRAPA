@@ -68,5 +68,6 @@
 | v | v | [Voiced labiodental fricative](https://en.wikipedia.org/wiki/Voiced_labiodental_fricative) | <ins>**V**</ins>aso | [<ins>**v**</ins> a z u0] | |
 | x | x | [Voiceless velar fricative](https://en.wikipedia.org/wiki/Voiceless_velar_fricative) | Pa<ins>**r**</ins>ti<ins>**r**</ins> | [p a <ins>**x**</ins> ch i <ins>**x**</ins>] | Regional (4) |
 | z | z | [Voiced alveolar fricative](https://en.wikipedia.org/wiki/Voiced_alveolar_fricative) | <ins>**Z**</ins>ebra | [<ins>**z**</ins> e b r ax] | |
+
 *Phonemes in the description follow the X-Sampa standard</br>
 *Numbers in parentheses represent the numbering of regional accents found in Brazil: [Dialects of the Portuguese Language (PT-BR)](https://pt.wikipedia.org/wiki/Dialetos_da_língua_portuguesa#/media/Ficheiro:Br.pt.png) / [Portuguese dialects (English)](https://en.wikipedia.org/wiki/Portuguese_dialects)
