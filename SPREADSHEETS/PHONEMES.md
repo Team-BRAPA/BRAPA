@@ -8,7 +8,7 @@
 | ah | V | [Open-mid back unrounded vowel](https://en.wikipedia.org/wiki/Open-mid_back_unrounded_vowel)| S<ins>**a**</ins>udade | [s <ins>**ah**</ins> w d a dj i ] | Diphthong with /w/ |
 | ahn | V~ | [/V/ Nasal](https://en.wikipedia.org/wiki/Nasal_vowel) | M<ins>**ã**</ins>o | [m <ins>**ahn**</ins> w] | Diphthong with /w/ and /j/ |
 | ax | 6 | [Near-open central vowel](https://en.wikipedia.org/wiki/Near-open_central_vowel) | C<ins>**â**</ins>mera | [k <ins>**ax**</ins> m e r a] | |
-| an | 6~ | [/a/ Nasal](https://en.wikipedia.org/wiki/Nasal_vowel) | Am<ins>**an**</ins>te | [a m <ins>**an**</ins> ch i] |
+| an | 6~ | [/6/ Nasal](https://en.wikipedia.org/wiki/Nasal_vowel) | Am<ins>**an**</ins>te | [a m <ins>**an**</ins> ch i] |
 | e | e | [Close-mid front unrounded vowel](https://en.wikipedia.org/wiki/Close-mid_front_unrounded_vowel) | <ins>**E**</ins>xausto | [<ins>**e**</ins> z a w s t u] | |
 | en | e~ | [/e/ Nasal](https://en.wikipedia.org/wiki/Nasal_vowel) | T<ins>**em**</ins>po | [t <ins>**en**</ins> p u] | |
 | eh | E | [Open-mid front unrounded vowel](https://en.wikipedia.org/wiki/Open-mid_front_unrounded_vowel) | At<ins>**é**</ins> | [a t <ins>**eh**</ins>] | |
